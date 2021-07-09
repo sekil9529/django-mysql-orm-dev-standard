@@ -33,7 +33,7 @@
 
 7. 附录
 
-  - [代码](https://github.com/sekil9529/django-mysql-orm-dev-standard/tree/master/libs)
+    - [代码](https://github.com/sekil9529/django-mysql-orm-dev-standard/tree/master/libs)
 
 # 参考文档
 
