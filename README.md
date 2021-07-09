@@ -2,7 +2,7 @@
 
 # 文档说明
 
-参考互联网公司MySQL开发规范以及个人使用工作经验总结，用于分享、交流经验。
+参考互联网公司MySQL开发规范以及个人使用工作经验总结，用于记录、分享、交流经验。
 
 文档地址：https://github.com/sekil9529/django-mysql-orm-dev-standard
 
