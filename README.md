@@ -2,7 +2,7 @@
 
 # 文档说明
 
-参考互联网公司MySQL开发规范以及个人使用工作经验总结，用于记录、分享、交流经验。
+参考互联网公司MySQL开发规范以及个人使用经验总结，用于记录、分享、交流经验。
 
 文档地址：https://github.com/sekil9529/django-mysql-orm-dev-standard
 
@@ -27,7 +27,7 @@
 
 4. [DML书写规范](https://github.com/sekil9529/django-mysql-orm-dev-standard/blob/master/4.DML%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83.md)
 
-5. [DQL及其他书写规范](https://github.com/sekil9529/django-mysql-orm-dev-standard/blob/master/5.DQL%E5%8F%8A%E5%85%B6%E4%BB%96%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83.md)
+5. [DQL及其他规范（包含查询优化）](https://github.com/sekil9529/django-mysql-orm-dev-standard/blob/master/5.DQL%E5%8F%8A%E5%85%B6%E4%BB%96%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83.md)
 
 6. [Django中使用原生SQL](https://github.com/sekil9529/django-mysql-orm-dev-standard/blob/master/6.Django%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%8E%9F%E7%94%9FSQL.md)
 
