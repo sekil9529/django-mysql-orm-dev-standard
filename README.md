@@ -13,7 +13,7 @@
 - mysql-5.7.30
 - python-3.7.10
   - django==2.2.24
-  - mysqlclient==2.0.3
+  - PyMySQL==1.0.2
   - django-jsonfield-backport==1.0.3
   - djorm-ext-pool==0.8.2
 
