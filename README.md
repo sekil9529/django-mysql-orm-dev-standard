@@ -15,7 +15,7 @@
   - django==2.2.24
   - PyMySQL==1.0.2
   - django-jsonfield-backport==1.0.3
-  - djorm-ext-pool==0.8.2
+  - django-mysql-geventpool==0.2.5
 
 # 目录
 
